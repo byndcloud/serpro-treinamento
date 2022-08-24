@@ -1,4 +1,4 @@
-import exampleModule from '@/store/modules/example-module'
+import exampleModule from './exampleModule'
 
 export default {
   exampleModule

@@ -8,7 +8,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prettier/plugin-pug": "^1.19.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vuetify": "^1.1.0",
+    "prettier": "^2.6.0",
     "vue": "^2.6.11",
+    "vue-eslint-parser": "^8.3.0",
     "vuex": "^3.6.2",
     "vuex-map-fields": "^1.4.1"
   },
@@ -16,13 +22,12 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
-    "sass": "^1.49.9",
-    "sass-loader": "^12.6.0",
-    "vue-cli-plugin-pug": "~2.0.0",
-    "vue-loader": "^17.0.0",
+    "eslint-plugin-vuetify": "^1.1.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
